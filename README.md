@@ -3,7 +3,6 @@
 Machine learning application built using Caffeine to detect fake and real news articles.
 
 ## 🔗 Live Demo
-# Fake News Detection
 : https://fake-news-detection-application-dua.caffeine.xyz
 
 ## 🛠 Tech Stack
