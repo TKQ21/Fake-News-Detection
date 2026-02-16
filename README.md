@@ -1,6 +1,6 @@
 # Fake News Detection System
 
-Machine learning application built using Caffeine to detect fake and real news articles.
+ Natural learning process application built using Caffeine to detect fake and real news articles.
 
 ## 🔗 Live Demo
 : https://fake-news-detection-application-dua.caffeine.xyz
